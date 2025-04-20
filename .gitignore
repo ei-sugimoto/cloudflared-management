@@ -1,0 +1,12 @@
+# 機密情報
+.env
+
+# Terraformの状態ファイル
+terraform.tfstate
+terraform.tfstate.backup
+
+# Terraformのロックファイル
+.terraform.lock.hcl
+
+# Terraformのキャッシュディレクトリ
+.terraform/
